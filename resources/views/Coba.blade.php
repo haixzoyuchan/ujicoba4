@@ -6,9 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LaravelWilda</title>
-    <!doctype html>
-    <!DOCTYPE html>
-   
 </head>
 <body>
     
@@ -22,7 +19,7 @@
         <input type="date" placeholder="Tanggal kembali" required>
            <div class="btns">
             <button type="submit">Pesan</button>
-            <a href="./registration.html"><button</a>
+            <a href="/re"><button</a>
            </div>
             
         </form>

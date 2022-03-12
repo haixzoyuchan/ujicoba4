@@ -6,23 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LaravelWilda</title>
-    <!doctype html>
-    <!DOCTYPE html>
-   
 </head>
 <body>
-    
     <div class="container">
         <h2>Selamat Datang</h2>
         <form action="">
-        <input type="email" placeholder="Email" required>
-        <input type="text" placeholder="Nama" required>
-        <input type="text" placeholder="Tujuan" required>
+        <input type="email" placeholder="Destinasi Tujuan" required>
+        <input type="text" placeholder="Transportasi" required>
         <input type="date" placeholder="Tanggal keberangkatan" required>
         <input type="date" placeholder="Tanggal kembali" required>
+        <input type="text" placeholder="Menu VIP" required>
            <div class="btns">
-            <button type="submit">Pesan</button>
-            <a href="./registration.html"><button</a>
+            <button type="submit">Konfirmasi Pemesanan</button>
+            <a href=""><button</a>
            </div>
             
         </form>

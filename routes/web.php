@@ -16,6 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('Coba');
 });
-Route::get('/submit', function () {
-    return view('Coba');
+Route::get('/re', function () {
+    return view('welcome');
 });
